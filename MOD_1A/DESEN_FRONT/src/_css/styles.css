@@ -1,0 +1,38 @@
+/*
+seletor{
+    pripriedade:valor1;
+    propriedade:valor2;
+}
+*/
+
+body{
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: crimson;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+.container{
+    background-color: #fff;
+    padding: 20px;
+    margin: auto;
+    width: 80%;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.destaque{
+    background-color: chocolate;
+    padding: 10px;
+    border-left: 5px solid salmon;
+}
+
+img{
+ margin: 5px; /*do tamalho pra fora*/
+ width: 50%; /*tamanho da imagem*/
+ height: auto;
+
+}
